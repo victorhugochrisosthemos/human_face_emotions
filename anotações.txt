@@ -1,0 +1,15 @@
+
+cd "diretorio"
+
+cd "C:\Users\MASTER\Documents\victor\human_face_emotions"
+
+python -m venv .ambiente_virtual
+
+.\.ambiente_virtual\Scripts\activate
+
+
+
+*****************************************************************
+
+
+
